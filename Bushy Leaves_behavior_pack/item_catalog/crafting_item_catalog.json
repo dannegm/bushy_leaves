@@ -1,0 +1,19 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:crafting_items_catalog": {
+        "categories": [
+            {
+                "category_name": "nature",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "dnn:azalea_flowered_bushy_leaves",
+                            "name": "dnn:itemGroup.name.bushy_leaves"
+                        },
+                        "items": ["dnn:azalea_flowered_bushy_leaves"]
+                    }
+                ]
+            }
+        ]
+    }
+}
