@@ -4,8 +4,38 @@
     "padding": 8,
     "num_mip_levels": 4,
     "texture_data": {
+        "acacia_bushy_leaves": {
+            "textures": "textures/blocks/acacia_bushy_leaves.png"
+        },
+        "azalea_bushy_leaves": {
+            "textures": "textures/blocks/azalea_bushy_leaves.png"
+        },
         "azalea_flowered_bushy_leaves": {
             "textures": "textures/blocks/azalea_flowered_blushy_leaves.png"
+        },
+        "birch_bushy_leaves": {
+            "textures": "textures/blocks/birch_bushy_leaves.png"
+        },
+        "cherry_bushy_leaves": {
+            "textures": "textures/blocks/cherry_bushy_leaves.png"
+        },
+        "dark_oak_bushy_leaves": {
+            "textures": "textures/blocks/dark_oak_bushy_leaves.png"
+        },
+        "jungle_bushy_leaves": {
+            "textures": "textures/blocks/jungle_bushy_leaves.png"
+        },
+        "mangrove_bushy_leaves": {
+            "textures": "textures/blocks/mangrove_bushy_leaves.png"
+        },
+        "oak_bushy_leaves": {
+            "textures": "textures/blocks/oak_bushy_leaves.png"
+        },
+        "pale_oak_bushy_leaves": {
+            "textures": "textures/blocks/pale_oak_bushy_leaves.png"
+        },
+        "spruce_bushy_leaves": {
+            "textures": "textures/blocks/spruce_blushy_leaves.png"
         }
     }
 }

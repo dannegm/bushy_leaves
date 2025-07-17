@@ -2,14 +2,14 @@
     "format_version": "1.21.20",
     "minecraft:block": {
         "description": {
-            "identifier": "dnn:azalea_flowered_bushy_leaves",
+            "identifier": "dnn:mangrove_bushy_leaves",
             "menu_category": { "category": "nature" }
         },
         "components": {
             "minecraft:geometry": "geometry.bushy_leaves",
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "azalea_flowered_bushy_leaves",
+                    "texture": "mangrove_bushy_leaves",
                     "render_method": "alpha_test"
                 }
             },

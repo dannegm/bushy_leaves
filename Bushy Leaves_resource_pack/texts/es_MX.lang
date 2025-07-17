@@ -1,2 +1,12 @@
-tile.dnn:azalea_flowered_bushy_leaves.name=Hojas de Azalea con Flores Frondosas
-dnn:itemGroup.name.bushy_leaves=Hojas Frondosas
+dnn:itemGroup.name.bushy_leaves=Hojas frondosas
+tile.dnn:acacia_bushy_leaves.name=Hojas frondosas de acacia
+tile.dnn:azalea_bushy_leaves.name=Hojas frondosas de azalea
+tile.dnn:azalea_flowered_bushy_leaves.name=Hojas frondosas de azalea con flores
+tile.dnn:birch_bushy_leaves.name=Hojas frondosas de abedul
+tile.dnn:cherry_bushy_leaves.name=Hojas frondosas de cerezo
+tile.dnn:dark_oak_bushy_leaves.name=Hojas frondosas de roble oscuro
+tile.dnn:jungle_bushy_leaves.name=Hojas frondosas de jungla
+tile.dnn:mangrove_bushy_leaves.name=Hojas frondosas de manglar
+tile.dnn:oak_bushy_leaves.name=Hojas frondosas de roble
+tile.dnn:pale_oak_bushy_leaves.name=Hojas frondosas de roble pálido
+tile.dnn:spruce_bushy_leaves.name=Hojas frondosas de abeto

@@ -10,7 +10,19 @@
                             "icon": "dnn:azalea_flowered_bushy_leaves",
                             "name": "dnn:itemGroup.name.bushy_leaves"
                         },
-                        "items": ["dnn:azalea_flowered_bushy_leaves"]
+                        "items": [
+                            "dnn:acacia_bushy_leaves",
+                            "dnn:azalea_bushy_leaves",
+                            "dnn:azalea_flowered_bushy_leaves",
+                            "dnn:birch_bushy_leaves",
+                            "dnn:cherry_bushy_leaves",
+                            "dnn:dark_oak_bushy_leaves",
+                            "dnn:jungle_bushy_leaves",
+                            "dnn:mangrove_bushy_leaves",
+                            "dnn:oak_bushy_leaves",
+                            "dnn:pale_oak_bushy_leaves",
+                            "dnn:spruce_bushy_leaves"
+                        ]
                     }
                 ]
             }

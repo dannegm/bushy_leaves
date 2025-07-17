@@ -2,18 +2,18 @@
     "format_version": "1.21.20",
     "minecraft:recipe_shapeless": {
         "description": {
-            "identifier": "dnn:azalea_flowered_bushy_leaves"
+            "identifier": "dnn:azalea_bushy_leaves"
         },
         "tags": ["crafting_table"],
         "priority": -1,
-        "ingredients": [{ "item": "minecraft:azalea_leaves_flowered" }],
+        "ingredients": [{ "item": "minecraft:azalea_leaves" }],
         "result": {
-            "item": "dnn:azalea_flowered_bushy_leaves",
+            "item": "dnn:azalea_bushy_leaves",
             "count": 1
         },
         "unlock": [
             {
-                "item": "minecraft:azalea_leaves_flowered"
+                "item": "minecraft:azalea_leaves"
             }
         ]
     }

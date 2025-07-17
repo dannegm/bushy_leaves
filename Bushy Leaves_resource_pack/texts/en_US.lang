@@ -1,2 +1,12 @@
-tile.dnn:azalea_flowered_bushy_leaves.name=Azalea Flowered Bushy Leaves
 dnn:itemGroup.name.bushy_leaves=Bushy Leaves
+tile.dnn:acacia_bushy_leaves.name=Acacia Bushy Leaves
+tile.dnn:azalea_bushy_leaves.name=Azalea Bushy Leaves
+tile.dnn:azalea_flowered_bushy_leaves.name=Azalea Flowered Bushy Leaves
+tile.dnn:birch_bushy_leaves.name=Birch Bushy Leaves
+tile.dnn:cherry_bushy_leaves.name=Cherry Bushy Leaves
+tile.dnn:dark_oak_bushy_leaves.name=Dark Oak Bushy Leaves
+tile.dnn:jungle_bushy_leaves.name=Jungle Bushy Leaves
+tile.dnn:mangrove_bushy_leaves.name=Mangrove Bushy Leaves
+tile.dnn:oak_bushy_leaves.name=Oak Bushy Leaves
+tile.dnn:pale_oak_bushy_leaves.name=Pale Oak Bushy Leaves
+tile.dnn:spruce_bushy_leaves.name=Spruce Bushy Leaves

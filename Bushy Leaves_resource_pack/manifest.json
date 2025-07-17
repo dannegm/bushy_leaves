@@ -1,19 +1,19 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Bushy Leaves RP v1.5.0",
+        "name": "Bushy Leaves RP v1.8.0",
         "description": "Bushy Leaves for Bedrock ",
-        "uuid": "6cff4ee7-0258-4927-8f85-151cb8f96529",
-        "version": [1, 5, 0],
+        "uuid": "cd1adf1d-c324-4de6-b749-bd0798e7d164",
+        "version": [1, 8, 0],
         "min_engine_version": [1, 21, 20]
     },
     "modules": [
         {
             "type": "resources",
-            "uuid": "5ab3307b-96e3-40c1-af3e-3bc1a97f7b28",
-            "version": [1, 5, 0]
+            "uuid": "5aa30416-38a2-4871-891e-a61eed577227",
+            "version": [1, 8, 0]
         }
     ],
-    "dependencies": [{ "uuid": "01359184-6f80-42d0-93d4-f4d4ded3cbb8", "version": [1, 5, 0] }],
+    "dependencies": [{ "uuid": "662df5f3-67b6-40fd-a9ef-555ca52ff9d5", "version": [1, 8, 0] }],
     "metadata": { "authors": ["dannegm", "d4nn36m"] }
 }

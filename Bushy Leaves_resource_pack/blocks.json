@@ -1,6 +1,36 @@
 {
     "format_version": "1.21.0",
+    "acacia_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
+    "azalea_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
     "azalea_flowered_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
+    "birch_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
+    "cherry_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
+    "dark_oak_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
+    "jungle_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
+    "mangrove_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
+    "oak_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
+    "pale_oak_bushy_leaves": {
+        "sound": "azalea_leaves"
+    },
+    "spruce_bushy_leaves": {
         "sound": "azalea_leaves"
     }
 }
